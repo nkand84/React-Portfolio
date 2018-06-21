@@ -1,12 +1,18 @@
 .navbar{
     padding:35px 60px !important;
 }
+.navbar-brand{
+    font-size:20px;
+}
+.navbar .navbar-toggler .navbar-toggler-icon{
+   color: #fff !important;
+}
 a{
     color: #fff !important;
     text-transform: uppercase;
-    font-size:20px;
+    font-size:16px;
     letter-spacing: 3px;
 }
 a:hover{
-    color: #f7dcf7 !important;
+    color: #e7e0e9 !important;
 }
