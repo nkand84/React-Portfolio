@@ -1,4 +1,12 @@
+.navbar{
+    padding:35px 60px !important;
+}
 a{
     color: #fff !important;
     text-transform: uppercase;
+    font-size:20px;
+    letter-spacing: 3px;
+}
+a:hover{
+    color: #f7dcf7 !important;
 }
